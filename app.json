@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "MonApp",
-    "slug": "MonApp",
+    "name": "RN-Mobile-CarteEtudiant",
+    "slug": "RN-Mobile-CarteEtudiant",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/app-icon.jpg",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
